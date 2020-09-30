@@ -1,0 +1,25 @@
+.cookies-notice{
+
+}
+.cookies-notice-container{
+    width:1142px;
+    margin:0 auto;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+.cookies-notice-container-btn{
+    width:100%;
+}
+
+.cookies-notice-cell-left{
+    text-align:left;
+}
+
+@media(max-width: 1200px){
+    .cookies-notice-container{
+        width:100%;
+        padding-left:15px;
+        padding-right:15px;
+    }
+}
